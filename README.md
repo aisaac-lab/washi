@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-
+```ruby
+Washi::Tiler.call "input_file_path.jpg", "output_path", tile_size: 512
+```
 
 ## Development
 
