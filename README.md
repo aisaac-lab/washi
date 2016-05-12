@@ -2,8 +2,6 @@
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
 ```ruby
 gem 'washi'
 ```
@@ -15,6 +13,10 @@ And then execute:
 Or install it yourself as:
 
     $ gem install washi
+    
+    
+### Install vips 
+    $ brew install vips (mac example)
 
 ## Usage
 
